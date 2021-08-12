@@ -1,0 +1,8 @@
+style.css 8054
+.ftco-navbar-light .navbar-brand:hover, .ftco-navbar-light .navbar-brand:focus {
+      color: #000000 !important; }
+	     #138f32
+
+
+Changed all #ffd615 too  #138f32
+About 64 occurance across 2 files
